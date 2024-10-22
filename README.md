@@ -1,2 +1,2 @@
-# my-anime-dle
+# My anime-dle
 Improved animedle
